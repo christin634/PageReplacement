@@ -3,4 +3,4 @@
 
 <hr>
 
-程序已导出为jar包(PageReplacement.jar)，点击PageReplacement.bat可直接运行。
+程序已导出为jar包(PageReplacement.jar)。
